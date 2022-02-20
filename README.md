@@ -1,4 +1,4 @@
-# flutter_iptv
+# flutter_catalog
 
 A new Flutter project.
 
