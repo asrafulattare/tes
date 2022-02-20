@@ -4,8 +4,8 @@ import 'package:velocity_x/velocity_x.dart';
 import 'package:video_player/video_player.dart';
 import 'package:wakelock/wakelock.dart';
 
-import 'package:flutter_catalog/models/catalog.dart';
-import 'package:flutter_catalog/utils/routes.dart';
+import 'package:flutter_iptv/models/catalog.dart';
+import 'package:flutter_iptv/utils/routes.dart';
 
 // ignore: must_be_immutable
 class VideoApp extends StatefulWidget {

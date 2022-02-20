@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalog/models/catalog.dart';
+import 'package:flutter_iptv/models/catalog.dart';
 
-import 'package:flutter_catalog/pages/player.dart';
+import 'package:flutter_iptv/pages/player.dart';
 
 import 'package:velocity_x/velocity_x.dart';
 

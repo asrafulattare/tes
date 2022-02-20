@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_catalog/core/store.dart';
-import 'package:flutter_catalog/pages/cart_page.dart';
-import 'package:flutter_catalog/pages/player.dart';
-import 'package:flutter_catalog/pages/welcome_screen.dart';
-import 'package:flutter_catalog/utils/routes.dart';
+import 'package:flutter_iptv/core/store.dart';
+import 'package:flutter_iptv/pages/cart_page.dart';
+import 'package:flutter_iptv/pages/player.dart';
+import 'package:flutter_iptv/pages/welcome_screen.dart';
+import 'package:flutter_iptv/utils/routes.dart';
+
 import 'package:velocity_x/velocity_x.dart';
 import 'pages/home_page.dart';
 import 'widgets/themes.dart';

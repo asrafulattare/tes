@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalog/models/catalog.dart';
-import 'package:flutter_catalog/utils/routes.dart';
+import 'package:flutter_iptv/models/catalog.dart';
+import 'package:flutter_iptv/utils/routes.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class CatalogHeader extends StatelessWidget {

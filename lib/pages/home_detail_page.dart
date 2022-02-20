@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalog/models/catalog.dart';
-import 'package:flutter_catalog/widgets/home_widgets/add_to_cart.dart';
+import 'package:flutter_iptv/models/catalog.dart';
+import 'package:flutter_iptv/widgets/home_widgets/add_to_cart.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:video_player/video_player.dart';
 

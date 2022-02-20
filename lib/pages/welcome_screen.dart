@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_catalog/utils/routes.dart';
+import 'package:flutter_iptv/utils/routes.dart';
 import 'dart:async';
 import 'package:velocity_x/velocity_x.dart';
 

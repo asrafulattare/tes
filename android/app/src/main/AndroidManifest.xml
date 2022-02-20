@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_catalog">
+    package="com.example.flutter_iptv">
     <uses-feature android:name="android.software.leanback"
        android:required="false" />
     <uses-feature android:name="android.hardware.touchscreen"

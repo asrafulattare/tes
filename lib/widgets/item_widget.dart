@@ -1,5 +1,5 @@
 // import 'package:flutter/material.dart';
-// import 'package:flutter_catalog/models/catalog.dart';
+// import 'package:flutter_iptv/models/catalog.dart';
 
 // class ItemWidget extends StatelessWidget {
 //   final Item item;

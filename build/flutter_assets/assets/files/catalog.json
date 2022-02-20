@@ -1,0 +1,149 @@
+{
+    "products": [
+        {
+            "ditails": [
+                {
+                    "name": "Asraflu Attare",
+                    "age": "29"
+                }
+            ],
+            "products": [
+                {
+                    "id": 1,
+                    "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8",
+                    "desc": "Apple iPhone 12th generation",
+                    "name": "Madani Channel Live Urdu",
+                    "color": "view-source:http://10.16.100.203:8082/tv/somoy.html",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLRQQf7PR9Lid3KRrkGasxLSIfwjltekK-tmPxl-NA=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 999
+                },
+                {
+                    "id": 2,
+                    "url": "https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8",
+                    "desc": "Google Pixel phone 5th generation",
+                    "name": "Madani Channel Live Bangla",
+                    "color": "#00ac51",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLSsQSiNvFP3xy9RCCD5dRrP832YRCnUGe3JSipgsg=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 699
+                },
+                {
+                    "id": 3,
+                    "url": "http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8",
+                    "desc": "Apple Macbook air with apple silicon",
+                    "name": "NEWS 24",
+                    "color": "#e0bfae",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLQMWaT0z28dnBjloO6x46BLF_AeXsYVAaQpeYG9=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 1099
+                },
+                {
+                    "id": 4,
+                    "url": "http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8",
+                    "desc": "Sony Playstation 5th generation",
+                    "name": "SOMOY TV",
+                    "color": "#544ee4",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLR-RXr5kKOUNVS9tu7RXQwkrVlb4wc2Jh9PQtX70A=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 500
+                },
+                {
+                    "id": 5,
+                    "url": "http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8",
+                    "desc": "Apple Aipods Pro 1st generation",
+                    "name": "EKATTOR.TV",
+                    "color": "#e3e4e9",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLRrbl9K0qQ7BYPktiMdBXJs1LFGRA6DZZZqV6qJYg=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 200
+                },
+                {
+                    "id": 6,
+                    "url": "http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8",
+                    "desc": "Apple iPad Pro 2020 edition",
+                    "name": "DBC NEWS",
+                    "color": "#f73984",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLQZqeFV5GL1oWgP6ETIe55VIL7lXPQVG-xCyTMJ=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 799
+                },
+                {
+                    "id": 7,
+                    "url": "http://10.16.100.245/hindi/channeL24_1st0p.m3u8",
+                    "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+                    "name": "CHANNEL 24",
+                    "color": "#1c1c1c",
+                    "image": "https://yt3.ggpht.com/GUBwZhBEZvU7bIPZGCYYa7_Fg8bfRsLdEifoBy_Jk78-E00d1Sl4lHb9oJivyU80rkAzVwV9uw=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 1299
+                },
+                {
+                    "id": 8,
+                    "url": "http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8",
+                    "desc": "Samsung Galaxy S21 2021 edition",
+                    "name": "JAMUNA TV",
+                    "color": "#7c95eb",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 899
+                },
+                {
+                    "id": 9,
+                    "url": "http://10.16.100.245/hindi/atNnews_1st0p.m3u8",
+                    "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+                    "name": "ATN News",
+                    "color": "#1c1c1c",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLRUCroh8pSWVhjTniKvgFPztV44jUQ9jEqDUflA=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 1299
+                },
+                {
+                    "id": 10,
+                    "url": "http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8",
+                    "desc": "Samsung Galaxy S21 2021 edition",
+                    "name": "MAASRANGA",
+                    "color": "#7c95eb",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLQjUWjlIjVeWG3BKz-yk78L_Ii3mXHUQrmyAIqW=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 899
+                },
+                {
+                    "id": 11,
+                    "url": "http://10.16.100.245/hindi/s@tv_1st0p.m3u8",
+                    "desc": "Apple iPhone 12th generation",
+                    "name": "SA TV",
+                    "color": "view-source:http://10.16.100.203:8082/tv/somoy.html",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 999
+                },
+                {
+                    "id": 12,
+                    "url": "http://10.16.100.245/hindi/t$sports_1stOp.m3u8",
+                    "desc": "Google Pixel phone 5th generation",
+                    "name": "T Sports bkp (1)",
+                    "color": "#00ac51",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLSUjeCMq2L4BV-goxj65Bnhfd_uxRD_cUnpwiyu=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 699
+                },
+                {
+                    "id": 13,
+                    "url": "http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8",
+                    "desc": "Apple Macbook air with apple silicon",
+                    "name": "T Sports bkp (3)",
+                    "color": "#e0bfae",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLSUjeCMq2L4BV-goxj65Bnhfd_uxRD_cUnpwiyu=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 1099
+                },
+                {
+                    "id": 14,
+                    "url": "http://10.16.100.207:8082/sports/Tsports_1stop.m3u8",
+                    "desc": "Sony Playstation 5th generation",
+                    "name": "T Sports bkp (7)",
+                    "color": "#544ee4",
+                    "image": "https://yt3.ggpht.com/ytc/AKedOLSUjeCMq2L4BV-goxj65Bnhfd_uxRD_cUnpwiyu=s900-c-k-c0x00ffffff-no-rj",
+                    "price": 500
+                },
+                {
+                    "id": 15,
+                    "url": "http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/chunklist_w2128529568.m3u8",
+                    "desc": "Apple Aipods Pro 1st generation",
+                    "name": "Sony SAB",
+                    "color": "#e3e4e9",
+                    "image": "https://www.pngkit.com/png/detail/29-294938_sony-sab-logo-sab-tv.png",
+                    "price": 200
+                }
+            ]
+        }
+    ]
+}
